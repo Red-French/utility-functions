@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Red-French/utility-functions.git"
   },
-  "author": Red French,
+  "author": "Red French",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Red-French/utility-functions/issues"
   },
-  "homepage": "https://github.com/Red-French/utility-functions#readme"
+  "homepage": "https://github.com/Red-French/utility-functions#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
 }
